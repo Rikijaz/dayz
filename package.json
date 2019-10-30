@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/nathanstitt/dayz/issues"
   },
-  "homepage": "https://github.com/nathanstitt/dayz#readme",
+  "homepage": "https://rikijaz.github.io/dayz/",
   "dependencies": {
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
